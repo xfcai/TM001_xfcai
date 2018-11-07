@@ -1,4 +1,4 @@
-This project us the measurement card of TM-003 which has two power pin, 2 output pin and 1 clear inout pin.
+This project use the Guilin Tianmu measurement card of TM-003 which has two power pins, 2 output pins and 1 clear input pin.
 This power is 0 - 3.3V
 The clear input will set the ouput to zero when it is connected to voltage zero.
 The output has a clock output and data output. The clock output as following:
