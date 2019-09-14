@@ -1,3 +1,4 @@
+该项目使用桂林天目出品的百分表/千分表，读取仪表的数据并可以显示，该仪表已经成功应用到船用缸套测量项目中。
 This project use the Guilin Tianmu measurement card of TM-003 which has two power pins, 2 output pins and 1 clear input pin.
 This power is 0 - 3.3V
 The clear input will set the ouput to zero when it is connected to voltage zero.
